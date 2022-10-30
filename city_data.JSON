@@ -1,0 +1,12 @@
+[
+    [
+        {"cityname": "Seattle"},
+        {"population": "65"},
+        {"img_path": "./images/seattle.png"}
+    ],
+    [
+        {"cityname": "New York"},
+        {"population": "450"},
+        {"img_path": "./images/newyork.png"}
+    ]
+]
